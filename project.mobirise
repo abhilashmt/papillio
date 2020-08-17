@@ -495,10 +495,10 @@
               "background-image": "url(@bg-value)"
             },
             "H1": {
-              "color": "#cccccc"
+              "color": "#ffffff"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#cccccc"
+              "color": "#ffffff"
             }
           },
           "_name": "header1",
